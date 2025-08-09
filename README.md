@@ -34,7 +34,7 @@
 
 ```bash
 # 克隆仓库
-git clone https://github.com/your-username/open-gpt.git
+git clone https://github.com/WENGENG-boop/open-gpt.git
 cd open-gpt
 
 # 安装依赖
