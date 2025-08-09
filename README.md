@@ -9,6 +9,7 @@
   ![Electron](https://img.shields.io/badge/Electron-27.0.0-47848f.svg)
   ![Vue.js](https://img.shields.io/badge/Vue.js-3.3.11-4fc08d.svg)
 </div>
+![Uploading image.png…]()
 
 ## ✨ 功能特性
 
