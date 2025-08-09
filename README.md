@@ -92,7 +92,7 @@ npm run dist
 
 ```
 open-gpt/
-├── index (1).html          # 主页面文件
+├── Open-Chat.html         # 主页面文件
 ├── main.js                 # Electron主进程
 ├── package.json            # 项目配置
 ├── dist/                   # 构建输出目录
