@@ -62,11 +62,17 @@ npm run dist
 ### 支持的模型
 
 #### OpenAI 模型
-- GPT-3.5 Turbo
-- GPT-4
-- GPT-4 Turbo
-- GPT-4o
-- GPT-4o Mini
+- 支持所有OpenAI最新模型
+- 自动获取并显示可用模型列表
+- 支持模型重新排序和优先级显示
+- 内置默认模型包括：
+  - GPT-4o
+  - GPT-4o Mini
+  - GPT-4 Turbo
+  - GPT-4
+  - GPT-3.5 Turbo
+- 用户可自定义配置API URL和API Key
+- 支持手动添加自定义模型
 
 #### OpenRouter 模型
 - 支持100+种开源和商业模型
